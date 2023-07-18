@@ -1,0 +1,25 @@
+
+.app {
+  position: relative;
+  /* background-color: #bba6ef; */
+}
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+.nav-links{
+  font-weight: bolder;
+  font-size: large;
+}
+Learn {
+  position: absolute;
+  top: 25%; 
+  left: 25%;
+}
+img {
+  height: 100vh; 
+  width: 100vh; 
+  z-index: -1;
+}
